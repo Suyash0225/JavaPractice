@@ -14,7 +14,7 @@ public class StaticVar extends accessModifire {
 		StaticVar obj = new StaticVar();
 		StaticVar obj1 = new StaticVar();
 		obj.getDetails();
-		System.out.println(dateDamo.suyash);
+	
 		
 		
 	}
